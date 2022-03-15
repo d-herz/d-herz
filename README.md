@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @d-herz
-- 👀 I’m interested in stuff!
+- 👀 I’m interested in doing some freelancing to help bolster my portfolio and skills!
 - 🌱 I’m currently learning web development! Including HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on anything and everything.
 - 📫 How to reach me: hmu on here or twitte (@danherz636)
