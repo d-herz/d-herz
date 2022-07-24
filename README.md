@@ -15,33 +15,33 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left"> Some quick facts about me! </h3>
 
-- 📄 I am a licensed Civil Engineer turned Software Engineer
+- 🚧 I am a licensed Civil Engineer turned Software Engineer
 
-- 🔭 I’m proud member of the wonderful **#100Devs** community!
+- 💯 I’m proud member of the wonderful **#100Devs** community! 
 
-- 🌱 I’m currently learning **Full-Stack Web development!** 
-
-- 👯 I’m looking to collaborate on **open source JavaScript**
-
-- 🤝 I’m looking for help with **learning** and **networking**
+- 👨‍🏫 I’m currently learning **Full-Stack Web development!** 
 
 - 👨‍💻 My web development portfolio can be viewed at [WebDevDan.com](https://WebDevDan.com)!
 
-- 💬 Ask me about **Anything!**
+- 📄 Check out my current Software Engineering [Resume!](https://drive.google.com/file/d/1vJhvdf-oe90BGE1GunWxYZPU738zACd2/view?usp=sharing)
 
-- 📄 Check out my Software Engineering [Resume!](https://drive.google.com/file/d/1vJhvdf-oe90BGE1GunWxYZPU738zACd2/view?usp=sharing)
+- 🙏 I’m looking to collaborate on **open source JavaScript**
 
-- ⚡ Fun fact: **I LOVE** being on two wheels!
+- 👌 I’m always interested in **learning** and **networking**
 
-- 📫 Drop me a note: **danhyres@gmail.com**
+- 🏍 Fun fact: **I LOVE** being on two wheels!
 
-<h3 align="left">Connect with me:</h3>
+- 📫 Drop me a note, I would love to hear from you!: **danhyres@gmail.com**
+
+<!---- - 💬 Ask me about **Anything!** --->
+
+<h3 align="left">Find me on:</h3>
 <p align="left">
 <a href="https://twitter.com/danherz636" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danherz636" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-hyres/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-hyres/" height="30" width="40" /></a><a href="https://codepen.io/@dan_herz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@dan_herz" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">The languages and tools I use the most (so far!):</h3>
 <p align="left"> 
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   
@@ -49,8 +49,13 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
+<!----- Commented out for now:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-herz&show_icons=true&locale=en&layout=compact" alt="d-herz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d-herz&show_icons=true&locale=en" alt="d-herz" /></p>
+---->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-herz&" alt="d-herz" /></p>
+<h3 align="left">Some of my GitHub Stats!:</h3>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-herz&" alt="d-herz" /></p>
+
+# *Thanks for Stopping By!* 
