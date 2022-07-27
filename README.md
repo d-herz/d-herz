@@ -23,13 +23,13 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 My web development portfolio can be viewed at [WebDevDan.com](https://WebDevDan.com)!
 
-- 📄 Check out my current Software Engineering [Resume!](https://drive.google.com/file/d/1vJhvdf-oe90BGE1GunWxYZPU738zACd2/view?usp=sharing)
+- 📄 Check out my current Software Engineering [Resume](https://drive.google.com/file/d/1vJhvdf-oe90BGE1GunWxYZPU738zACd2/view?usp=sharing)
 
 - 🙏 I’m looking to collaborate on **open source JavaScript**
 
 - 👌 I’m always interested in **learning** and **networking**
 
-- 🏍 Fun fact: **I LOVE** being on two wheels!!
+- 🏍 Fun fact: **I LOVE** being on two wheels!
 
 - 📫 Drop me a note, I would love to hear from you!: **danhyres@gmail.com**
 
@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d-herz&show_icons=true&locale=en" alt="d-herz" /></p>
 ---->
 
-<h3 align="left">Some of my GitHub Stats!:</h3>
+<h3 align="left">Some of my GitHub Stats:</h3>
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-herz&" alt="d-herz" /></p>
 
 # *Thanks for Stopping By!* 
