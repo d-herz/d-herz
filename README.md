@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👌 I’m always interested in **learning** and **networking**
 
-- 🏍 Fun fact: **I LOVE** being on two wheels!
+- 🏍 Fun fact: When I'm not coding, **I LOVE** being on two wheels!
 
 - 📫 Drop me a note, I would love to hear from you!: **danhyres@gmail.com**
 
