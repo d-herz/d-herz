@@ -31,9 +31,9 @@ You can click the Preview link to take a look at your changes.
 
 - 🏍 Fun fact: When I'm not coding, **I LOVE** being on two wheels!
 
-- 📫 Drop me a note, I would love to hear from you!: **danhyres@gmail.com**
+<!--- - 📫 Drop me a note, I would love to hear from you!: **danhyres@gmail.com** --->
 
-<!---- - 💬 Ask me about **Anything!** --->
+<!---- - 💬 Ask me  --->
 
 <h3 align="left">The languages and tools I use the most (so far!):</h3>
 <p align="left"> 
