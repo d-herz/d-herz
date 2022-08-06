@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center"> <a href="https://twitter.com/danherz636" target="blank"><img src="https://img.shields.io/twitter/follow/danherz636?logo=twitter&style=for-the-badge" alt="danherz636" /></a> </p>
 
 <h1 align="center">Hi 👋, I'm Dan!</h1>
-<h3 align="center"> A passionate Fullstack developer living in New England!</h3>
+<h3 align="center"> A Passionate Full-Stack Developer living in New England</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d-herz" alt="d-herz" /></a> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=d-herz&label=Profile%20views&color=0e75b6&style=flat" alt="d-herz" /> </p>
@@ -19,9 +19,9 @@ You can click the Preview link to take a look at your changes.
 
 - 💯 I’m proud member of the wonderful **#100Devs** community! 
 
-- 👨‍🏫 I’m currently learning **Full-Stack Web development!** 
+- 👨‍🏫 I’m currently learning **Full-Stack Web-Development** 
 
-- 👨‍💻 My web development portfolio can be viewed at [WebDevDan.com](https://WebDevDan.com)!
+- 👨‍💻 My web development portfolio can be viewed at [WebDevDan.com](https://WebDevDan.com)
 
 - 📄 Check out my current Software Engineering [Resume](https://drive.google.com/file/d/1vJhvdf-oe90BGE1GunWxYZPU738zACd2/view?usp=sharing)
 
