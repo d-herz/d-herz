@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🙏 I’m looking to collaborate on **open source JavaScript**
 
-- 👌 I’m always interested in **learning** and **networking**
+- 👌 I’m always interested in **learning** & **networking**
 
 - 🏍 Fun fact: When I'm not coding, **I LOVE** being on two wheels!
 
