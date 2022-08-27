@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center"> A Passionate Full-Stack Developer living in New England</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d-herz" alt="d-herz" /></a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=d-herz&label=Profile%20views&color=0e75b6&style=flat" alt="d-herz" /> </p>
+<p align="center" > <img src="https://komarev.com/ghpvc/?username=d-herz&label=Profile%20views&color=0e75b6&style=flat" alt="d-herz" /> </p>
 
 
 <h3 align="center"> Some quick facts about me! </h3>
@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🚧 I am a licensed Civil Engineer turned Software Engineer
 
-- 💯 I’m proud member of the wonderful **#100Devs** community! 
+- 💯 I’m a proud member of the wonderful **#100Devs** community! 
 
 - 👨‍🏫 I’m currently learning **Full-Stack Web-Development** 
 
@@ -32,9 +32,6 @@ You can click the Preview link to take a look at your changes.
 
 - 🏍 Fun fact: When I'm not coding, **I LOVE** being on two wheels!
 
-<!--- - 📫 Drop me a note, I would love to hear from you!: **danhyres@gmail.com** --->
-
-<!---- - 💬 Ask me  --->
 
 
 
