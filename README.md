@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
 ---->
 
 <h3 align="center">Some of my GitHub Stats:</h3>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-herz&" alt="d-herz" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-herz&theme=onedark" alt="d-herz" /></p>
 
 # *Thanks for Stopping By!* 
 
