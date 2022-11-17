@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 My web development portfolio can be viewed at [WebDevDan.com](https://WebDevDan.com)
 
-- 📄 Check out my current Software Engineering [Resume](https://drive.google.com/file/d/1vJhvdf-oe90BGE1GunWxYZPU738zACd2/view?usp=sharing)
+- 📄 Check out my current Software Engineering [Resume](https://drive.google.com/file/d/1dW5FmhLqUFblJURsaWt3NlAzYevSNe9n/view?usp=share_link)
 
 - 🙏 I’m looking to collaborate on **open source JavaScript**
 
