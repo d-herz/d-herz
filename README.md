@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💯 I’m a proud member of the wonderful **#100Devs** community! 
 
-- 👨‍🏫 I’m currently learning **Full-Stack Web-Development** 
+- 👨‍🏫 I’m currently enrolled in Harvard **CS50x** 
 
 - 👨‍💻 My web development portfolio can be viewed at [WebDevDan.com](https://WebDevDan.com)
 
