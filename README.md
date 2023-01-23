@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 Web development portfolio: [WebDevDan.com](https://WebDevDan.com)
 
-- 📄 Current Software Engineering [Resume](https://drive.google.com/file/d/1JbtiRo0WAIaRuyyVVrEcQyIz0hc3XqB1/view?usp=sharing)
+- 📄 Current Software Engineering [Resume](https://drive.google.com/file/d/1JbtiRo0WAIaRuyyVVrEcQyIz0hc3XqB1/view?usp=sharing):
 
 - 🙏 Interested in collaborating on **open source JavaScript**
 
