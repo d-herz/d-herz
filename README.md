@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center"> Quick Facts: </h3>
 
 
-- 🚧 Transitioned into tech from Civil Engineering
+- 🚧 Former Civil Engineer
 
 - 💯 Currently working hard with **#100Devs** 
 
