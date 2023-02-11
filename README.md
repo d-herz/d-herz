@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🙏 Interested in collaborating on **open source JavaScript**
 
-- 👌 Enjoy **learning** & **networking**
+- 🙍‍♂️ Enjoy **learning** & **networking**
 
 - 🏍 Fun fact: When not coding, **LOVE** being on two wheels!
 
