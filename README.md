@@ -15,21 +15,19 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center"> Quick Facts: </h3>
 
-- 🧑‍💻 I write code everyday (Seriously! Check my 🟩's)
+- 🧑‍💻 Code Everyday! 
 
-- 🚧 Former Civil Engineer
+- 🖥 [Portfolio](https://WebDevDan.com)
 
-- 💯 Currently working hard with **#100Devs** 
+- 📄 [Resume](https://drive.google.com/file/d/1JbtiRo0WAIaRuyyVVrEcQyIz0hc3XqB1/view?usp=sharing)
 
-- 👨‍💻 Web development portfolio: [WebDevDan.com](https://WebDevDan.com)
+- 🦜 Bird Dad
 
-- 📄 Current Software Engineering [Resume](https://drive.google.com/file/d/1JbtiRo0WAIaRuyyVVrEcQyIz0hc3XqB1/view?usp=sharing)
+- 💯 **#100Devs** 
 
-- 🙏 Interested in collaborating on **open source JavaScript**
+- 🗣 JS, HTML, CSS, C, Python
 
-- 🙍‍♂️ Enjoy **learning** & **networking**
-
-- 🏍 Fun fact: When not coding, **LOVE** being on two wheels!
+- 🖼 React.js, Node.js, Express.js, TailwindCSS, Bootstrap, MongoDB/Mongoose
 
 <!--- 
 - 👨‍🏫 I’m currently enrolled in **Harvard CS50x** 
