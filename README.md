@@ -21,6 +21,8 @@ You can click the Preview link to take a look at your changes.
 
 - 📄 [Resume](https://drive.google.com/file/d/1JbtiRo0WAIaRuyyVVrEcQyIz0hc3XqB1/view?usp=sharing)
 
+- 🤔 [Blog](https://webdevdan.com/blog.html)
+
 - 🦜 Bird Dad
 
 - 💯 **#100Devs** 
