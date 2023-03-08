@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💯 **#100Devs** 
 
-- 🗣 JS, HTML, CSS, C, Python
+- 🗣 JS, HTML, CSS, C
 
 - 🖼 React.js, Node.js, Express.js, TailwindCSS, Bootstrap, MongoDB/Mongoose
 
