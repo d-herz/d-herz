@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center"> Quick Facts: </h3>
 
-- 🧑‍💻 Code Everyday! 
+- 🧑‍💻 Professional Civil Engineer 
 
 - 🖥 [Portfolio](https://WebDevDan.com)
 
@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💯 **#100Devs** 
 
-- 🗣 JS, HTML, CSS, C
+- 🗣 JS, HTML, CSS, C, VBA
 
 - 🖼 React.js, Node.js, Express.js, TailwindCSS, Bootstrap, MongoDB/Mongoose
 
